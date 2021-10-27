@@ -1,0 +1,16 @@
+.testBox {
+  font-size: 10px;
+  background: #fcc5ff;
+  width: 210px;
+  height: 150px;
+  border: solid 2px #f1c7ff;
+  border-radius: 8px;
+}
+
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
